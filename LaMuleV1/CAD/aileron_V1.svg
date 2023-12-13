@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 2793 2158" xmlns:xlink="http://www.w3.org/1999/xlink" height="215.8mm" width="279.3mm" version="1.2" xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace" baseProfile="tiny" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title>FreeCAD SVG Export</title>
+ <desc>Drawing page: Page exported from FreeCAD document: Unnamed</desc>
+ <defs/>
+ <g id="Page">
+  <g id="USLetter_Landscape_blank.svg" style="stroke: none;" transform="scale(10.000000, 10.000000)">
+   <!-- Working space 10 10 269 205 -->
+   <defs id="defs4"/>
+   <sodipodi:namedview pagecolor="#ffffff" inkscape:guide-bbox="true" inkscape:window-height="715" inkscape:pageshadow="2" showguides="true" inkscape:zoom="0.64460786" inkscape:pageopacity="0.0" units="mm" showgrid="false" inkscape:window-maximized="1" inkscape:window-width="1366" id="base" inkscape:document-units="mm" borderopacity="1.0" bordercolor="#666666" inkscape:current-layer="svg2" inkscape:cy="470.05322" inkscape:window-y="26" inkscape:cx="527.99999" inkscape:window-x="0" inkscape:showpageshadow="false">
+    <sodipodi:guide id="guide4606" position="196.1368,22.514151" orientation="0,1" inkscape:locked="false"/>
+    <sodipodi:guide id="guide4608" position="163.68397,54.764151" orientation="1,0" inkscape:locked="false"/>
+   </sodipodi:namedview>
+   <metadata id="metadata7">
+    <rdf:RDF>
+     <cc:Work rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dc:title/>
+     </cc:Work>
+    </rdf:RDF>
+   </metadata>
+  </g>
+  <g id="DrawingContent" stroke-linecap="square" fill="none" stroke="black" fill-rule="evenodd" stroke-width="1" stroke-linejoin="bevel">
+   <g font-size="38.8056" fill="#ffffff" stroke="none" font-weight="400" font-family="Ubuntu" fill-opacity="1" font-style="normal" transform="matrix(1,0,0,1,1397,1079.5)">
+    <path fill-rule="evenodd" vector-effect="non-scaling-stroke" d="M-153.54,140.454 L174.5,374.5 L174.5,57.3427 C174.5,4.29941 153.429,-46.5714 115.921,-84.0786 L-174.5,-374.5 L-174.5,99.752 C-174.5,115.909 -166.693,131.07 -153.54,140.454 "/>
+   </g>
+   <g stroke-opacity="1" font-size="38.8056" stroke-linecap="square" fill="none" stroke="#000000" stroke-width="1" font-weight="400" stroke-linejoin="bevel" font-family="Ubuntu" font-style="normal" transform="matrix(1,0,0,1,1397,1079.5)">
+    <rect y="0" height="0" width="0" x="0"/>
+   </g>
+   <g stroke-opacity="1" font-size="38.8056" stroke-linecap="round" fill="none" stroke="#000000" stroke-width="1" font-weight="400" stroke-linejoin="bevel" font-family="Ubuntu" font-style="normal" transform="matrix(1,0,0,1,1397,1079.5)">
+    <path fill-rule="evenodd" vector-effect="non-scaling-stroke" d="M-153.54,140.454 L174.5,374.5"/>
+   </g>
+   <g stroke-opacity="1" font-size="38.8056" stroke-linecap="round" fill="none" stroke="#000000" stroke-width="1" font-weight="400" stroke-linejoin="bevel" font-family="Ubuntu" font-style="normal" transform="matrix(1,0,0,1,1397,1079.5)">
+    <path fill-rule="evenodd" vector-effect="non-scaling-stroke" d="M-153.54,140.454 C-166.693,131.07 -174.5,115.909 -174.5,99.752 "/>
+   </g>
+   <g stroke-opacity="1" font-size="38.8056" stroke-linecap="round" fill="none" stroke="#000000" stroke-width="1" font-weight="400" stroke-linejoin="bevel" font-family="Ubuntu" font-style="normal" transform="matrix(1,0,0,1,1397,1079.5)">
+    <path fill-rule="evenodd" vector-effect="non-scaling-stroke" d="M174.5,374.5 L174.5,57.3427"/>
+   </g>
+   <g stroke-opacity="1" font-size="38.8056" stroke-linecap="round" fill="none" stroke="#000000" stroke-width="1" font-weight="400" stroke-linejoin="bevel" font-family="Ubuntu" font-style="normal" transform="matrix(1,0,0,1,1397,1079.5)">
+    <path fill-rule="evenodd" vector-effect="non-scaling-stroke" d="M-174.5,-374.5 L-174.5,99.752"/>
+   </g>
+   <g stroke-opacity="1" font-size="38.8056" stroke-linecap="round" fill="none" stroke="#000000" stroke-width="1" font-weight="400" stroke-linejoin="bevel" font-family="Ubuntu" font-style="normal" transform="matrix(1,0,0,1,1397,1079.5)">
+    <path fill-rule="evenodd" vector-effect="non-scaling-stroke" d="M174.5,57.3427 C174.5,4.29941 153.429,-46.5714 115.921,-84.0786 "/>
+   </g>
+   <g stroke-opacity="1" font-size="38.8056" stroke-linecap="round" fill="none" stroke="#000000" stroke-width="1" font-weight="400" stroke-linejoin="bevel" font-family="Ubuntu" font-style="normal" transform="matrix(1,0,0,1,1397,1079.5)">
+    <path fill-rule="evenodd" vector-effect="non-scaling-stroke" d="M115.921,-84.0786 L-174.5,-374.5"/>
+   </g>
+  </g>
+ </g>
+</svg>
